@@ -39,5 +39,5 @@ def find_min_value(array)
    end
   }
   return x
-end 
+ 
 end
